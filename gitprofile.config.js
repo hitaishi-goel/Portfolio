@@ -12,7 +12,7 @@ const config = {
   },
   social: {
     linkedin: 'https://www.linkedin.com/in/hitaishi-goel-nitdelhi/',
-    twitter: 'foxycurrent',
+    twitter: 'hitaishigoel_09',
     mastodon: '',
     facebook: '',
     instagram: '',
@@ -36,9 +36,13 @@ const config = {
   skills: [
     'C++ DSA',
     'C/C++',
+    'AWS',
+    'AWS CLI',
+    'AWS DynamoDb',
     'Python',
     'HTML',
     'CSS',
+    'Java',
     'JavaScript',
     'Bootstrap',
     'Node.js',
@@ -52,18 +56,16 @@ const config = {
   ],
   experiences: [
     {
-      company: 'VSAT REFURB SOLUTIONS P. LTD.',
-      position: 'Web Development Intern',
-      from: 'June 2023',
-      to: 'July 2023',
-      companyLink: 'https://www.vsat-refurb.com/#',
+      company: 'Amazon (AWS DynamoDb)',
+      position: 'Software Development Engineer Intern',
+      from: 'Jan 2025',
+      to: 'Jun 2025',
     },
     {
       company: 'CodeClause Pvt. Ltd.',
-      position: 'Python Development Intern',
-      from: 'September 2023',
-      to: 'October 2023',
-      companyLink: 'https://www.codeclause.com/',
+      position: 'Software Engineer Intern',
+      from: 'May 2024',
+      to: 'July 2024',
     },
   ],
   certifications: [
@@ -101,7 +103,7 @@ const config = {
   education: [
     {
       institution: 'National Institute of Technology, Delhi',
-      degree: 'BTech in Electronics and Communication Engineering : 8.24/10',
+      degree: 'BTech in Electronics and Communication Engineering : 8.36/10',
       from: '2021',
       to: '2025',
     },
@@ -147,7 +149,7 @@ const config = {
       title: 'Articlyfy',
       // shortd: 'Developed and launched the website algotrace.tech',
       description:
-      'I developed Articlyfy, a feature-rich website built with Next.js, React, and TypeScript, providing a dynamic and robust frontend experience. Utilizing Appwrite Cloud, I seamlessly integrated complete authentication and database functionality, enabling users to authenticate seamlessly and store articles securely. ',
+        'I developed Articlyfy, a feature-rich website built with Next.js, React, and TypeScript, providing a dynamic and robust frontend experience. Utilizing Appwrite Cloud, I seamlessly integrated complete authentication and database functionality, enabling users to authenticate seamlessly and store articles securely. ',
       imageUrl: '/article.png',
       link: 'https://articlify-henna.vercel.app/',
     },
