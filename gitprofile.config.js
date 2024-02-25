@@ -128,12 +128,28 @@ const config = {
   // To hide the `My Projects` section, keep it empty
   externalProjects: [
     {
+      title: 'Musicly',
+      // shortd: 'Developed and launched the website algotrace.tech',
+      description:
+        'I engineered Musicly, a music app using Next.js 14, React, and TypeScript, providing a dynamic and responsive user experience. Leveraging Appwrite Cloud, I integrated authentication and user song storage, enabling users to contribute their own songs and fostering community interaction through a chat box. Additionally, I implemented login and logout functionality to enhance user privacy and overall experience.',
+      imageUrl: 'music_logo.jpg',
+      link: 'https://musicly-lemon.vercel.app/',
+    },
+    {
       title: 'AlgoTrace Website',
       // shortd: 'Developed and launched the website algotrace.tech',
       description:
         'Developed and launched the website algotrace.tech Demonstrated strong web development skills by creating an interactive and informative platform.Gained valuable experience in website design, development, and maintenance.Acquired hands-on expertise in Bootstrap, HTML, CSS, JavaScript.',
-      imageUrl: '/public/logo2.png',
+      imageUrl: '/logo2.png',
       link: 'http://algotrace.tech/',
+    },
+    {
+      title: 'Articlyfy',
+      // shortd: 'Developed and launched the website algotrace.tech',
+      description:
+      'I developed Articlyfy, a feature-rich website built with Next.js, React, and TypeScript, providing a dynamic and robust frontend experience. Utilizing Appwrite Cloud, I seamlessly integrated complete authentication and database functionality, enabling users to authenticate seamlessly and store articles securely. ',
+      imageUrl: '/article.png',
+      link: 'https://articlify-henna.vercel.app/',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
