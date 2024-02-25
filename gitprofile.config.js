@@ -132,7 +132,7 @@ const config = {
       // shortd: 'Developed and launched the website algotrace.tech',
       description:
         'I engineered Musicly, a music app using Next.js 14, React, and TypeScript, providing a dynamic and responsive user experience. Leveraging Appwrite Cloud, I integrated authentication and user song storage, enabling users to contribute their own songs and fostering community interaction through a chat box. Additionally, I implemented login and logout functionality to enhance user privacy and overall experience.',
-      imageUrl: 'music_logo.jpg',
+      imageUrl: '/music_logo.jpg',
       link: 'https://musicly-lemon.vercel.app/',
     },
     {
